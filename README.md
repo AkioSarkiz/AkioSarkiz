@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJsd2c2cDZlNHNmbWVtaG9lbHc3cXY1dmVmdHAxZHpxNmI4c3M0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LBFPLXkgoVm80dx6sP/giphy.webp" width="200"/>
+  <img src="assets/banner.webp" width="200"/>
 </div>
 
 👋 Hi, I’m @AkioSarkiz (Dmyto Laptiev)
