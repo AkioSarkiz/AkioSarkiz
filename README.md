@@ -10,7 +10,7 @@
 
 💞️ I’m eager to collaborate on exciting projects that challenge the status quo and push the boundaries of what’s possible in the digital landscape. Whether it’s building robust web applications, optimizing database performance, or implementing cutting-edge features, I’m ready to contribute my skills to innovative and forward-thinking teams.
 
-📫 How to reach me: Feel free to drop me an email at saludeskimdev@gmail.com. I’m always open to networking and discussing potential collaborations or opportunities.
+📫 How to reach me: Feel free to drop me an email at akiosarkiz@gmail.com. I’m always open to networking and discussing potential collaborations or opportunities.
 
 😄 Pronouns: He/Him
 
